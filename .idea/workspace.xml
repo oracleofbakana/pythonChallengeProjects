@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a244c1-392f-4821-9186-018a47886673" name="Changes" comment="updated password gen to include two style of solution providing">
-      <change afterPath="$PROJECT_DIR$/calculate_factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guess_a_name_with_computer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fizzbuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/fizzbuzz.py" afterDir="false" />
-    </list>
+    <list default="true" id="96a244c1-392f-4821-9186-018a47886673" name="Changes" comment="Day 6 of the challenge with practice of factorial and a game with the computer" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +46,7 @@
     "Python.calculate_factorial.executor": "Run",
     "Python.even_numbers_Sum.executor": "Run",
     "Python.fizzbuzz.executor": "Run",
+    "Python.guess_a_name_with_computer.executor": "Run",
     "Python.password_gen.executor": "Run",
     "Python.student_height_calc.executor": "Run",
     "Python.student_score.executor": "Run",
@@ -106,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712755686658</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Day 6 of the challenge with practice of factorial and a game with the computer">
+      <option name="closed" value="true" />
+      <created>1712842990430</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712842990430</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,7 +128,8 @@
     <MESSAGE value="Commit to 100 days of challenge" />
     <MESSAGE value="Day 5 challenge using loops and doing the fizzbuzz program" />
     <MESSAGE value="updated password gen to include two style of solution providing" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated password gen to include two style of solution providing" />
+    <MESSAGE value="Day 6 of the challenge with practice of factorial and a game with the computer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 6 of the challenge with practice of factorial and a game with the computer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -142,6 +147,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/calculate_factorial.py</url>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/guess_a_name_with_computer.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
