@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a244c1-392f-4821-9186-018a47886673" name="Changes" comment="Day 6 of the challenge with practice of factorial and a game with the computer" />
+    <list default="true" id="96a244c1-392f-4821-9186-018a47886673" name="Changes" comment="Day 6 of the challenge with practice of factorial and a game with the computer">
+      <change afterPath="$PROJECT_DIR$/statistics_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word_game_challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordgame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "oracleofbakana"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;oracleofbakana&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/oracleofbakana/pythonChallengeProjects",
-    "accountId": "4247fa3b-70f1-428e-a8f9-8b0a086a7ffe"
-  }
-}]]></component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
 }</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/oracleofbakana/pythonChallengeProjects&quot;,
+    &quot;accountId&quot;: &quot;4247fa3b-70f1-428e-a8f9-8b0a086a7ffe&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="2etbAe6DmnwEu2wG7uhd19UgNce" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,8 +53,11 @@
     "Python.fizzbuzz.executor": "Run",
     "Python.guess_a_name_with_computer.executor": "Run",
     "Python.password_gen.executor": "Run",
+    "Python.statistics_calculator.executor": "Run",
     "Python.student_height_calc.executor": "Run",
     "Python.student_score.executor": "Run",
+    "Python.word_game_challenge.executor": "Run",
+    "Python.wordgame.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -110,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712842990430</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day 6 of the challenge with practice of factorial and a game with the computer">
+      <option name="closed" value="true" />
+      <created>1712843092594</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712843092594</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +168,11 @@
           <url>file://$PROJECT_DIR$/guess_a_name_with_computer.py</url>
           <line>16</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/statistics_calculator.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
