@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a244c1-392f-4821-9186-018a47886673" name="Changes" comment="Day 6 of the challenge with practice of factorial and a game with the computer">
-      <change afterPath="$PROJECT_DIR$/area_calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prime_number.py" afterDir="false" />
+    <list default="true" id="96a244c1-392f-4821-9186-018a47886673" name="Changes" comment="Committed Day 8 challenge">
+      <change afterPath="$PROJECT_DIR$/caesar_cipher.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.area_calc.executor": "Run",
+    "Python.caesar_cipher.executor": "Run",
     "Python.calculate_factorial.executor": "Run",
     "Python.even_numbers_Sum.executor": "Run",
     "Python.fizzbuzz.executor": "Run",
@@ -135,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713021204106</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Committed Day 8 challenge">
+      <option name="closed" value="true" />
+      <created>1713117470528</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713117470528</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,7 +162,8 @@
     <MESSAGE value="Day 5 challenge using loops and doing the fizzbuzz program" />
     <MESSAGE value="updated password gen to include two style of solution providing" />
     <MESSAGE value="Day 6 of the challenge with practice of factorial and a game with the computer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 6 of the challenge with practice of factorial and a game with the computer" />
+    <MESSAGE value="Committed Day 8 challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committed Day 8 challenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
