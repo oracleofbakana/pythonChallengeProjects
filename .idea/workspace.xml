@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a244c1-392f-4821-9186-018a47886673" name="Changes" comment="Committed Day 8 challenge">
-      <change afterPath="$PROJECT_DIR$/caesar_cipher.py" afterDir="false" />
+    <list default="true" id="96a244c1-392f-4821-9186-018a47886673" name="Changes" comment="encrypt function">
+      <change afterPath="$PROJECT_DIR$/art.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_cipher.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.area_calc.executor": "Run",
+    "Python.art.executor": "Run",
     "Python.caesar_cipher.executor": "Run",
     "Python.calculate_factorial.executor": "Run",
     "Python.even_numbers_Sum.executor": "Run",
@@ -143,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713117470528</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="encrypt function">
+      <option name="closed" value="true" />
+      <created>1713129560739</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713129560739</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,7 +173,8 @@
     <MESSAGE value="updated password gen to include two style of solution providing" />
     <MESSAGE value="Day 6 of the challenge with practice of factorial and a game with the computer" />
     <MESSAGE value="Committed Day 8 challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Committed Day 8 challenge" />
+    <MESSAGE value="encrypt function" />
+    <option name="LAST_COMMIT_MESSAGE" value="encrypt function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -191,6 +202,11 @@
           <url>file://$PROJECT_DIR$/statistics_calculator.py</url>
           <line>17</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/caesar_cipher.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
