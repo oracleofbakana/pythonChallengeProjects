@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a244c1-392f-4821-9186-018a47886673" name="Changes" comment="Day 6 of the challenge with practice of factorial and a game with the computer">
-      <change afterPath="$PROJECT_DIR$/statistics_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word_game_challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wordgame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/area_calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prime_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,11 +47,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.area_calc.executor": "Run",
     "Python.calculate_factorial.executor": "Run",
     "Python.even_numbers_Sum.executor": "Run",
     "Python.fizzbuzz.executor": "Run",
     "Python.guess_a_name_with_computer.executor": "Run",
     "Python.password_gen.executor": "Run",
+    "Python.prime_number.executor": "Run",
     "Python.statistics_calculator.executor": "Run",
     "Python.student_height_calc.executor": "Run",
     "Python.student_score.executor": "Run",
@@ -126,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712843092594</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Day 6 of the challenge with practice of factorial and a game with the computer">
+      <option name="closed" value="true" />
+      <created>1713021204104</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713021204106</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
