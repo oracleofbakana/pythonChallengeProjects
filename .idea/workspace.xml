@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a244c1-392f-4821-9186-018a47886673" name="Changes" comment="encrypt function">
-      <change afterPath="$PROJECT_DIR$/art.py" afterDir="false" />
+    <list default="true" id="96a244c1-392f-4821-9186-018a47886673" name="Changes" comment="encrypt function updated">
+      <change afterPath="$PROJECT_DIR$/bid_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bid_auction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_score_and_grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel_information.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_cipher.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +38,9 @@
     &quot;accountId&quot;: &quot;4247fa3b-70f1-428e-a8f9-8b0a086a7ffe&quot;
   }
 }</component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2etbAe6DmnwEu2wG7uhd19UgNce" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -59,6 +61,8 @@
     "Python.statistics_calculator.executor": "Run",
     "Python.student_height_calc.executor": "Run",
     "Python.student_score.executor": "Run",
+    "Python.student_score_and_grades.executor": "Run",
+    "Python.travel_information.executor": "Run",
     "Python.word_game_challenge.executor": "Run",
     "Python.wordgame.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -153,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713129560739</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="encrypt function updated">
+      <option name="closed" value="true" />
+      <created>1713134214752</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713134214752</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,7 +186,8 @@
     <MESSAGE value="Day 6 of the challenge with practice of factorial and a game with the computer" />
     <MESSAGE value="Committed Day 8 challenge" />
     <MESSAGE value="encrypt function" />
-    <option name="LAST_COMMIT_MESSAGE" value="encrypt function" />
+    <MESSAGE value="encrypt function updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="encrypt function updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
