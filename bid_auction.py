@@ -1,16 +1,28 @@
 from bid_art import logo
 print(logo)
-bidder = {}
-bidder_name = str(input("Enter the name of the bidder:\n"))
-bidder_price = int(input("Enter the amount you wish to pay for the item: \n"))
+
+bids = {}
 bidding_finished = False
 
-def add_bidder_info(name, price, direction):
-    bidder_info = {}
-    bidder_info["name"] = name
-    bidder_info["price"] = price
-    bidder.append(bidder_info)
+
+def find_highest_bidder(bidding_record):
+    highest_bid = 0
+    winner = ""
+    for bidder in bidding_record:
+        bid_amount = bidding_record[bidder]
+        if bid_amount > highest_bid:
+            highest_bid = bid_amount
+            winner = bidder
+    print(f"The winner is {winner} with a bid of ${highest_bid}")
 
 
-
-
+while not bidding_finished:
+    name = input("What is your name?\n")
+    price = int(input("What is your price? \n$"))
+    bids[name] = price
+    should_continue = str(input("Are there any other bidders? Type 'yes' or 'no'.")).lower()
+    if should_continue == "no":
+        bidding_finished = True
+        find_highest_bidder(bids)
+    elif should_continue == "yes":
+        print("  ")
