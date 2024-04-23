@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a244c1-392f-4821-9186-018a47886673" name="Changes" comment="day 9">
+    <list default="true" id="96a244c1-392f-4821-9186-018a47886673" name="Changes" comment="day 12 - scopes and block">
+      <change afterPath="$PROJECT_DIR$/game_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/higher_lower_game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bid_auction.py" beforeDir="false" afterPath="$PROJECT_DIR$/bid_auction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/art.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +51,16 @@
     "Python.area_calc.executor": "Run",
     "Python.art.executor": "Run",
     "Python.bid_auction.executor": "Run",
+    "Python.blackstone.executor": "Run",
     "Python.caesar_cipher.executor": "Run",
     "Python.calculate_factorial.executor": "Run",
     "Python.even_numbers_Sum.executor": "Run",
     "Python.fizzbuzz.executor": "Run",
     "Python.guess_a_name_with_computer.executor": "Run",
+    "Python.higher_lower_game.executor": "Run",
+    "Python.leap_year.executor": "Run",
+    "Python.mini_calc.executor": "Run",
+    "Python.number_guess_game.executor": "Run",
     "Python.password_gen.executor": "Run",
     "Python.prime_number.executor": "Run",
     "Python.statistics_calculator.executor": "Run",
@@ -64,7 +71,8 @@
     "Python.word_game_challenge.executor": "Run",
     "Python.wordgame.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/dkwda"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -179,7 +187,47 @@
       <option name="project" value="LOCAL" />
       <updated>1713300170500</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="day 11 - the blackjack project">
+      <option name="closed" value="true" />
+      <created>1713728927701</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713728927701</updated>
+    </task>
+    <task id="LOCAL-00014" summary="day 11 - the blackjack project">
+      <option name="closed" value="true" />
+      <created>1713737377530</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713737377530</updated>
+    </task>
+    <task id="LOCAL-00015" summary="day 11 - the blackjack project">
+      <option name="closed" value="true" />
+      <created>1713783601370</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713783601370</updated>
+    </task>
+    <task id="LOCAL-00016" summary="day 12 - scopes and block">
+      <option name="closed" value="true" />
+      <created>1713795387871</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713795387871</updated>
+    </task>
+    <task id="LOCAL-00017" summary="day 12 - scopes and block">
+      <option name="closed" value="true" />
+      <created>1713796061546</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713796061546</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,7 +250,9 @@
     <MESSAGE value="encrypt function" />
     <MESSAGE value="encrypt function updated" />
     <MESSAGE value="day 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 9" />
+    <MESSAGE value="day 11 - the blackjack project" />
+    <MESSAGE value="day 12 - scopes and block" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 12 - scopes and block" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -235,6 +285,11 @@
           <url>file://$PROJECT_DIR$/caesar_cipher.py</url>
           <line>41</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/blackstone.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
