@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a244c1-392f-4821-9186-018a47886673" name="Changes" comment="day 12 - scopes and block">
-      <change afterPath="$PROJECT_DIR$/game_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/higher_lower_game.py" afterDir="false" />
+    <list default="true" id="96a244c1-392f-4821-9186-018a47886673" name="Changes" comment="day 14 - the higherlower game">
+      <change afterPath="$PROJECT_DIR$/coffee_machine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/art.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +52,7 @@
     "Python.blackstone.executor": "Run",
     "Python.caesar_cipher.executor": "Run",
     "Python.calculate_factorial.executor": "Run",
+    "Python.coffee_machine.executor": "Run",
     "Python.even_numbers_Sum.executor": "Run",
     "Python.fizzbuzz.executor": "Run",
     "Python.guess_a_name_with_computer.executor": "Run",
@@ -227,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713796061546</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="day 14 - the higherlower game">
+      <option name="closed" value="true" />
+      <created>1713877719297</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1713877719297</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,7 +259,8 @@
     <MESSAGE value="day 9" />
     <MESSAGE value="day 11 - the blackjack project" />
     <MESSAGE value="day 12 - scopes and block" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 12 - scopes and block" />
+    <MESSAGE value="day 14 - the higherlower game" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 14 - the higherlower game" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
